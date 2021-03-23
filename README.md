@@ -14,7 +14,6 @@ S3O facilitates & expedites conceptual process design for bioprocesses by synerg
 ### Employment
 The repository contains the following folders:
 
-- **\_data**: all the sampling data and models, presented in the according publication
 - **easyGSA**: empty folder to install the easyGSA toolbox
 - **modelling_ANN**: folder with the functions/scripts for fitting ANN surrogate models and transferring the models to the optimization problem (main script: *rs_ANNmodeling_cval.m*,*nk_ANNtransfer.m*)
 - **modelling_DTR**: folder with the functions/scripts for fitting DTR surrogate models (main script: *main_DTR.py*)
